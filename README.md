@@ -5,4 +5,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <h4 align="center"> 
 	🚧  React Select 🚀 Em construção...  🚧
 </h4>
-autores
+autores:
+RAFAEL STOCCO VIEIRA
+ANDRE BOTELHO BARRETO
+LORENZO GASPARINI DE MORAES BARROS
